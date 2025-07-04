@@ -1,0 +1,160 @@
+{
+  "name": "Robin QUILLIVIC, Ph.D.",
+  "email": "quillivicrobin@hotmail.fr",
+  "phone": "+33 7 69 70 64 95",
+  "github": [
+    "https://github.com/binbin83",
+    "https://github.com/psycholinguistics2125"
+  ],
+  "orcid": "009-0009-9372-0173",
+  "bio": "I am a post-doctoral researcher at CESSP/ISC-PIF, developing Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing. I hold a Ph.D. in Computer Science from EPHE and lead the 150k€ CNRS-funded TALANT project on trauma language analysis.",
+  "research_interests": [
+    "Natural Language Processing for mental health",
+    "Psycholinguistics",
+    "Trauma and PTSD",
+    "Formal Thought Disorder",
+    "Explainable AI",
+    "LLM",
+    "Clinical Decision Support System (CDSS)",
+    "Digital humanities"
+  ],
+  "current_position": {
+    "title": "Post-doctoral Researcher",
+    "period": "2025-",
+    "institution": "Centre Européen de Sociologie et de Science Politique (CESSP UMR 8209) – Paris, France",
+    "resident_at": "Centre for Complex Systems (ISC-PIF, CNRS UAR 3611) – Paris, France",
+    "project": "TALANT – Traitement Automatique du LANgage Traumatique"
+  },
+  "education": [
+    {
+      "degree": "Ph.D. in Computer Science",
+      "year": "2024",
+      "institution": "École Pratique des Hautes Études (EPHE, PSL)",
+      "thesis": "Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l'aide du TALN",
+      "supervisors": "Dr Salma Mesmoudi, Prof. Jacques Dayan",
+      "defended": "December 20, 2024",
+      "links": {
+        "manuscript": "https://theses.fr/2024UPSLP082",
+        "slides": "https://docs.google.com/presentation/d/1Gqe2Ott-h4TNdc6gnR7U5-8WFqxtymScf_EeHsAekgw/edit?usp=sharing"
+      }
+    },
+    {
+      "degree": "Ingénieur Data Scientist",
+      "year": "2019",
+      "institution": "École Centrale de Lille"
+    },
+    {
+      "degree": "Classe préparatoire MPSI–MP*",
+      "year": "2013-2015",
+      "institution": "Lycée Masséna, Nice"
+    }
+  ],
+  "funding_awards": [
+    {
+      "title": "CNRS Innovation Prematuration Grant",
+      "amount": "150k €",
+      "year": "2025",
+      "project": "Project TALANT, with Prof. F. Gayraud"
+    },
+    {
+      "title": "Prix solennel de thèse de la Chancellerie des Universités de Paris",
+      "note": "Selected by EPHE Doctoral School for nomination (decision October 2025)"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Data Scientist",
+      "period": "2020–2021",
+      "organization": "French Ministry of Health – Paris, France",
+      "description": "Built SVM and bi-LSTM classifiers for medical incident reports; deployed Dockerized FastAPI service",
+      "links": [
+        "https://github.com/etalab-ia/ami-ia-dgs"
+      ]
+    },
+    {
+      "position": "Data Scientist Intern",
+      "period": "2018–2019",
+      "organization": "DGA-MI (Direction Générale de l'Armement) – Rennes, France",
+      "description": "Developed automated information processing pipeline for synthesis report generation. Built four main components: Topic Modeling, Phrase Extraction, Named Entity Recognition, and sentiment analysis for web application integration."
+    },
+    {
+      "position": "Research Intern",
+      "period": "2018–2019",
+      "organization": "UbiComp Lab, Georgia Tech – Atlanta, USA",
+      "description": "Cross-cultural study of the #MeToo/#BalanceTonPorc movements; publication at INTERACT 2019",
+      "links": [
+        "https://inria.hal.science/hal-02544580/document",
+        "https://github.com/binbin83/metoo_project"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Linguistic markers for identifying post‑traumatic stress disorder and associated symptoms: a systematic literature review",
+      "authors": "Quillivic, R., Auxéméry, Y., Gayraud, F., Dayan, J., & Mesmoudi, S.",
+      "journal": "Journal of the American Medical Informatics Association",
+      "year": "2025",
+      "date": "May 24",
+      "links": {
+        "paper": "https://doi.org/10.1093/jamia/ocaf075",
+        "code": "https://github.com/psycholinguistics2125/systematic_review"
+      }
+    },
+    {
+      "title": "Interdisciplinary approach to identify language markers for PTSD using machine and deep learning",
+      "authors": "Quillivic, R., Gayraud, F., Auxéméry, Y., et al.",
+      "journal": "Scientific Reports",
+      "year": "2024",
+      "links": {
+        "paper": "https://www.nature.com/articles/s41598-024-61557-7",
+        "code": "https://github.com/psycholinguistics2125/linguistic_code_of_ptsd"
+      }
+    }
+  ],
+  "skills": {
+    "programming": [
+      "Python (advanced)",
+      "R",
+      "SQL"
+    ],
+    "frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "spaCy",
+      "Hugging Face",
+      "Ollama",
+      "FastAPI",
+      "Docker",
+      "Git"
+    ],
+    "data_science": [
+      "Machine Learning",
+      "Deep Learning",
+      "Topic Modeling",
+      "Graph Analytics",
+      "Explainability"
+    ],
+    "languages": [
+      "French (native)",
+      "English (TOEIC 910)",
+      "Spanish (B1)"
+    ]
+  },
+  "collaborations": [
+    {
+      "name": "Isaac Fradkin",
+      "institution": "Hebrew University of Jerusalem",
+      "description": "Joint poster CPC 2025; co-author; ongoing preprint project"
+    },
+    {
+      "name": "Telma Mimault",
+      "institution": "Université du Québec à Trois-Rivières",
+      "description": "Co-author on IPV perpetrator study; ongoing preprint project on dissociation markers"
+    },
+    {
+      "name": "Rosa Arriaga",
+      "institution": "Georgia Tech Ubicomp Lab",
+      "description": "Research internship"
+    }
+  ]
+}
